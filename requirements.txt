@@ -1,0 +1,5 @@
+selenium
+flask
+beautifulsoup4
+requests
+urlib3
